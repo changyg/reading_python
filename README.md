@@ -1,2 +1,2 @@
-# reading_python
-紀錄閱讀 Introducing Python 一書
+# 閱讀 Introducing Python
+紀錄閱讀 Introducing Python 一書的筆記。
